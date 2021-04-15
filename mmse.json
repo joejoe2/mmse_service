@@ -1,0 +1,27 @@
+{
+"user id":"xxx",
+"survey type":"mmse",
+  "time": "yyyy/mm/dd",
+"questions":
+     [
+         {"question id":"xxx",
+           "category":"xxx",
+           "type":"xxx",
+           "info":"xxx",
+           "data":{},
+           "user answer":{},
+           "user score":"5",
+           "full score":"10"
+         },
+         {"question id":"xxx",
+           "category":"xxx",
+           "type":"xxx",
+           "info":"xxx",
+           "data":{},
+           "user answer":{},
+           "user score":"5",
+           "full score":"10"
+         }
+     ],
+"total score":"10"
+}
