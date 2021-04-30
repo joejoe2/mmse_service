@@ -32,8 +32,8 @@ def remind_question(mark_objects):
 
 
 def random_three_objects():
-    obj1 = random.choice(["櫻花", "鼻子", "眼睛"])
-    obj2 = random.choice(["火車", "汽車", "船"])
-    obj3 = random.choice(["貓", "太陽", "星星"])
+    obj1 = random.choice(["耳朵", "鼻子", "眼睛"])
+    obj2 = random.choice(["櫻花", "蘭花", "菊花"])
+    obj3 = random.choice(["月亮", "太陽", "星星"])
     return [obj1, obj2, obj3]
     pass
