@@ -17,8 +17,8 @@ def naming_question():
 
 
 def random_naming_objects():
-    obj1 = random.choice(["貓", "太陽", "蘋果"])
-    obj2 = random.choice(["鼻子", "眼睛", "香蕉"])
+    obj1 = random.choice(["耳朵", "鼻子", "眼睛"])
+    obj2 = random.choice(["月亮", "太陽", "星星"])
     return [obj1, obj2]
     pass
 

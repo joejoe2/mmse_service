@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4fe348b9-6043-43eb-80fe-3470db3e9166" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/survey/MMSE/questions/memory_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/survey/MMSE/questions/memory_question.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/survey/MMSE/questions/language_question.py" beforeDir="false" afterPath="$PROJECT_DIR$/survey/MMSE/questions/language_question.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,11 +34,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/survey/MMSE/questions/memory_question.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+            <state relative-caret-position="482">
+              <caret line="36" column="43" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/survey/MMSE/questions/language_question.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="35" />
               <folding>
                 <element signature="e#0#73#0" expanded="true" />
               </folding>
@@ -86,7 +98,6 @@
         <option value="$PROJECT_DIR$/survey/MMSE/questions/location_question.py" />
         <option value="$PROJECT_DIR$/survey/MMSE/questions/short_term_memory_question.py" />
         <option value="$PROJECT_DIR$/survey/MMSE/questions/attention_question.py" />
-        <option value="$PROJECT_DIR$/survey/MMSE/questions/language_question.py" />
         <option value="$PROJECT_DIR$/survey/MMSE/questions/action_question.py" />
         <option value="$PROJECT_DIR$/survey/MMSE/questions/space_question.py" />
         <option value="$PROJECT_DIR$/survey/survey.py" />
@@ -100,13 +111,14 @@
         <option value="$PROJECT_DIR$/survey/MMSE/questions/time_question.py" />
         <option value="$PROJECT_DIR$/survey/MMSE/questions/question_template.py" />
         <option value="$PROJECT_DIR$/survey/MMSE/questions/memory_question.py" />
+        <option value="$PROJECT_DIR$/survey/MMSE/questions/language_question.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
+    <option name="x" value="-17" />
     <option name="width" value="1875" />
-    <option name="height" value="1021" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -307,7 +319,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="0" width="1440" height="784" extended-state="0" />
+    <frame x="-13" y="0" width="1440" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.258547" />
@@ -401,16 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/survey/MMSE/questions/language_question.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp_client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -440,8 +442,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/survey/MMSE/questions/memory_question.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        <state relative-caret-position="482">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/survey/MMSE/questions/language_question.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="35" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
