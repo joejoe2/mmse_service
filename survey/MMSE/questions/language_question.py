@@ -38,7 +38,7 @@ def repeat_question():
 
 
 def random_sentence():
-    sentences = ["天生我才必有用", "舉頭三尺有神明"]
+    sentences = ["天生我材必有用", "舉頭三尺有神明"]
     return random.choice(sentences)
     pass
 
